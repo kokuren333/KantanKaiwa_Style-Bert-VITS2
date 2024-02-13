@@ -12,7 +12,7 @@ Style-Bert-VITS2のserver_fastapi.pyを実行してから、このスクリプ�
 設定（params）のところが自分用のままなので、適宜値を変更してみてください。  
 （特にmodel_idは動かしたいモデルに変更してください。）    
 
-ターミナル上で"go"と打つと録音が開始し、設定秒数無音を検出すると録音が終了し、whisperで文字起こしがされます。whisperで文字起こしされた情報がuser_input変数に代入され、OpenAIのChatモデルに送信、返ってきた文章をStyle-Bert-VITS2でTTS変換します。
+ターミナル上で"go"と打つと録音が開始し、設定秒数無音を検出すると録音が終了し、whisperで文字起こしがされます。whisperで文字起こしされた情報がuser_input変数に代入され、OpenAIのChatモデルに送信、返ってきた文章をStyle-Bert-VITS2でTTS変換します。"exit"で会話から抜けられます。ただし、現状記憶機能は実装できていません。
 
 ## 便利リポジトリの紹介
 https://github.com/p2-3r/Discord-ReadTextBot-for-Style-Bert-VITS2-API  
