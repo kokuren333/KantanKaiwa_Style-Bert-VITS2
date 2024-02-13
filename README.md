@@ -2,6 +2,9 @@
 Style-Bert-VITS2モデルと簡単な音声会話をするためのスクリプトです。（適宜改造してください）  
 ただ設定通りの振る舞いをしてもらいつつ音声会話をするためだけのスクリプトになっています。  
 
+Style-Bert-VITS2  
+https://github.com/litagin02/Style-Bert-VITS2
+
 ## 使用例（動画）
 https://www.youtube.com/embed/fkyQgcnX68U?si=rFXhPkBk6emLyCGU  
 
