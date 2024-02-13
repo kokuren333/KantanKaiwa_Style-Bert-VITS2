@@ -3,7 +3,7 @@ Style-Bert-VITS2モデルと簡単な音声会話をするためのスクリプ�
 ただ設定通りの振る舞いをしてもらいつつ音声会話をするためだけのスクリプトになっています。  
 
 ## 使用例
-動画ではgpt-3.5-turbo-0125を使用していました。 
+動画ではgpt-3.5-turbo-0125を使用していました。  
 https://www.youtube.com/embed/fkyQgcnX68U?si=rFXhPkBk6emLyCGU  
 
 ## 使い方
