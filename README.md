@@ -11,7 +11,7 @@ https://youtu.be/fkyQgcnX68U
 動画ではgpt-3.5-turbo-0125を使用していました。
 
 ## 使い方
-- kaiwa.py
+- kaiwa.py  
 Style-Bert-VITS2のserver_fastapi.pyを実行してから、このスクリプトをターミナル上で実行してください。  
 設定（params）のところが自分用のままなので、適宜値を変更してみてください。  
 （特にmodel_idは動かしたいモデルに変更してください。）    
@@ -20,7 +20,7 @@ Style-Bert-VITS2のserver_fastapi.pyを実行してから、このスクリプ�
   
 追記(2024-02-14)：簡単な記憶機能を実装しました。最新n件の会話ログをmessagesに保持するようにしています。
 
-- kaiwa02.py
+- kaiwa02.py  
 cotomoを目指して色々弄りましたが、Whisperでは限界があるかも。
 https://youtu.be/-ufgnSrpcnU 
 
