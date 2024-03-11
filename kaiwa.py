@@ -55,7 +55,7 @@ def record_and_transcribe():
                 print("無音検出、録音終了")
                 break
 
-        recording = np.concatenate(recording, axis=0)
+        recording = np.concatenate(recording, axis=0) 
 
     # 録音データを一時ファイルに保存
     with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as tmp_file:
